@@ -1,0 +1,10 @@
+{
+  "name": "HTML_FUNDME",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "prettier": "^2.8.8"
+  }
+}
